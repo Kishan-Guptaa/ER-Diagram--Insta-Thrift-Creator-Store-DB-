@@ -18,6 +18,8 @@ Shipping: Tracks shipping address, status, tracking number, and delivery dates r
 
 Product Variants: Handles product-specific options such as size and color for more detailed inventory management.
 
+
+
 Key Relationships:
 One customer can place many orders.
 
